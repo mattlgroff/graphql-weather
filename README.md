@@ -2,6 +2,8 @@
 
 Powered by [Open Weather Map](https://openweathermap.org/)
 
+[Live Demo on Heroku using GraphiQL](https://graphql-weather.herokuapp.com/graphql)
+
 ## Example Usage
 
 ```
